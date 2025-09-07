@@ -1,3 +1,7 @@
+![GitHub repo size](https://img.shields.io/github/repo-size/WallanDavid/git-playground)
+![GitHub last commit](https://img.shields.io/github/last-commit/WallanDavid/git-playground)
+![GitHub](https://img.shields.io/github/license/WallanDavid/git-playground)
+
 # Git Playground
 
 Projeto didatico para aprender e demonstrar Git na pratica.
