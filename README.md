@@ -17,6 +17,3 @@ Projeto didatico para aprender e demonstrar Git na pratica.
 3. Stash
 4. Logs/Diff
 5. Remoto
-
-![GitHub repo size](https://img.shields.io/github/repo-size/WallanDavid/git-playground)
-![GitHub last commit](https://img.shields.io/github/last-commit/WallanDavid/git-playground)
