@@ -1,0 +1,7 @@
+cd C:\Users\bobwa\Documents\Git\git-playground
+
+(
+  echo .venv/
+  echo __pycache__/
+  echo .DS_Store
+) > .gitignore

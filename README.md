@@ -1,9 +1,15 @@
-# Git Playground 🎮
+# Git Playground ??
 
-Este projeto é um **playground prático** para aprender e demonstrar o uso de Git.
+Projeto didatico para aprender e demonstrar Git na pratica.
 
 ## Estrutura
-- Branch `main` → base limpa
-- Branch `feature/add-readme` → exemplo de commit inicial
-- Branch `feature/branching` → exemplo de branch e merge
-- Branch `feature/stash` → exemplo de stash
+- README.md (visao geral)
+- commands.md (cheatsheet dos comandos)
+- examples/ (exemplos praticos)
+
+## Roteiro rapido
+1. Staging & Commit
+2. Branching & Merge
+3. Stash
+4. Logs/Diff
+5. Remoto
