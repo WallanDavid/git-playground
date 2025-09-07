@@ -1,4 +1,4 @@
-# Git Playground ??
+# Git Playground
 
 Projeto didatico para aprender e demonstrar Git na pratica.
 
